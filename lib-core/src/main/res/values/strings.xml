@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="main_package" tools:keep="@string/main_package">eu.rgryta.gmanager</string>
+    <string name="lib_prefix" tools:keep="@string/lib_prefix">eu.rgryta.gmanager.lib</string>
+
+    <string name="activity_main_path" tools:keep="@string/activity_main_path">.ui.activity.MainActivity</string>
+</resources>
